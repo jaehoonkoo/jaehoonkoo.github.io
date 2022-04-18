@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img style="float:right;padding:20px;" width="100" src="/images/Koo-photoshot.jpeg"/>
+<img style="float:right;padding:20px;" width="200" src="/images/Koo-photoshot.jpeg"/>
 
 I am a postdoctoral appointee in the [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at [Argonne National Laboratory](https://www.anl.gov). I received my PhD from the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at [Northwestern University](https://www.northwestern.edu). My research is focused on machine learning, deep learning, deep reinforcement learning, image recognition, and autotuning.
 
