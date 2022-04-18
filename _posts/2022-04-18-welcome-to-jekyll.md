@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New homepage is coming! please go to old one"
+title:  "First page for Jekyll"
 date:   2022-04-18 01:14:16 -0500
 categories: jekyll update
 ---
