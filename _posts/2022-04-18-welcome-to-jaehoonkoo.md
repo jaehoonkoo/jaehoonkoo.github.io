@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jaehoon's Homepage. New homepage is coming! please check out my ANL and NU profile"
+title:  "Welcome to Jaehoon's Homepage. Please check out my ANL and NU profiles"
 date:   2022-04-18 01:14:16 -0500
 categories: note
 ---
