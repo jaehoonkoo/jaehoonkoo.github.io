@@ -26,7 +26,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 - A. Yanguas-Gil, J. Koo, S. Madireddy, P. Balaprakash, J. W. Elam, A. U. Mane, Neuromorphic Architectures for Edge Computing under Extreme Environments, IEEE Space Computing Conference (SCC), 2021, pp. 39-45. [10.1109/SCC49971.2021.00012](https://doi.org/10.1109/SCC49971.2021.00012)
 
-- J. Koo, D. Klabjan, J. Utke, Combined Convolutional and Recurrent Neural Networks for Hierarchical Classification of Images, IEEE International Conference on Big Data, 2020, pp. 1354-1361. [10.1109/BigData50022.2020.9378237](https://doi.org/10.1109/BigData50022.2020.9378237) [[code]](https://github.com/jaehoonkoo/h_classification) [[slide]](https://github.com/jaehoonkoo/h_classification/blob/master/doc/\%5BBigdata_2020\%5D\%20h_classification.pdf)
+- J. Koo, D. Klabjan, J. Utke, Combined Convolutional and Recurrent Neural Networks for Hierarchical Classification of Images, IEEE International Conference on Big Data, 2020, pp. 1354-1361. [10.1109/BigData50022.2020.9378237](https://doi.org/10.1109/BigData50022.2020.9378237) [[code]](https://github.com/jaehoonkoo/h_classification) [[slide]](https://github.com/jaehoonkoo/h_classification/blob/master/doc/%5BBigdata_2020%5D%20h_classification.pdf)
 
 - J. Koo, D. Klabjan, Improved Classification Based on Deep Belief Networks, 29th International Conference on Artificial Neural Networks (ICANN), Lecture Notes in Computer Science. Springer, vol. 12396, 2020, pp 541–552. [10.1007/978-3-030-61609-0_43](https://doi.org/10.1007/978-3-030-61609-0_43)
 
