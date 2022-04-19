@@ -12,11 +12,11 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 - J. Koo, C. Akcay, P. Balaprakash, S. Madireddy, L. Lao, Model Order Reduction of EFIT Equilibrium Reconstruction with Deep Neural Networks. (in preparation)
 
+## Refereed Journal Articles
+
 - L. Lao, S. Kruger, C. Akcay, P. Balaprakash, T Bechtel, E. Howell, J. Koo, J. Leddy, M. Leinhauser, Y. Liu, S. Madireddy, J. McClenaghan, D. Orozco, A. Pankin, D. Schissel, S. Smith, X. Sun, S. Williams, and the EFIT-AI Team, Application of Machine Learning and Artificial Intelligence to Extend EFIT Equilibrium Reconstruction. (under review)
 
 - J. Koo, D. Klabjan, J. Utke, Inverse Classification with Limited Budget and Maximum Number of Perturbed Samples. (under review) [preprint](https://arxiv.org/abs/2009.14111)
-
-## Refereed Journal Articles
 
 - J. Koo, S. Hwang, A Unified Defect Pattern Analysis of Wafer Maps Using Density-Based Clustering, IEEE Access, vol. 9, 2021, pp. 78873-78882. [10.1109/ACCESS.2021.3084221](https://doi.org/10.1109/ACCESS.2021.3084221)
 
