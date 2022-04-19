@@ -18,7 +18,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Refereed Journal Articles
 
-- J. Koo, S. Hwang, A Unified Defect Pattern Analysis of Wafer Maps Using Density-Based Clustering, IEEE Access, vol. 9, 2021, pp. 78873-78882. [https://doi.org/10.1109/ACCESS.2021.3084221](https://doi.org/10.1109/ACCESS.2021.3084221)
+- J. Koo, S. Hwang, A Unified Defect Pattern Analysis of Wafer Maps Using Density-Based Clustering, IEEE Access, vol. 9, 2021, pp. 78873-78882. [10.1109/ACCESS.2021.3084221](https://doi.org/10.1109/ACCESS.2021.3084221)
 
 ## Refereed Proceedings
 
