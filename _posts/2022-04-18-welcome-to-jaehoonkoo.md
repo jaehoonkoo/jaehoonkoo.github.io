@@ -11,6 +11,5 @@ My profile at Argonne [anl.gov/profile/jaehoon-koo][anl-profile].
 
 My website from Northwesten University [sites.google.com/a/u.northwestern.edu/jaehoon_koo/home][nu-website].
 
-[
 [anl-profile]: https://www.anl.gov/profile/jaehoon-koo
 [nu-website]: https://sites.google.com/a/u.northwestern.edu/jaehoon_koo/
