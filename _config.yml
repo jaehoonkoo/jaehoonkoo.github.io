@@ -20,11 +20,10 @@
 
 title: Jaehoon Koo
   #author: 
-  name: PhD 
-  email: jkoo@anl.gov
+email: jkoo@anl.gov
 description: >- # this means to ignore newlines until "baseurl:"
   This is a personal page
-#baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blogi
 url: https://jaehoonkoo.github.io  # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: jaehoonkoo
