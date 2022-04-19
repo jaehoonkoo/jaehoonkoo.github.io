@@ -13,13 +13,13 @@ I am a postdoctoral appointee in the [Mathematics and Computer Science Division]
 - 7+ years experience in Python with PyTorch, Tensorflow, Gym, Scikit-Learn, and Git deployment. 
 - 5+ years experience in real-world data manipulation/analysis of images, and texts.
 
-### Edutation
-- PhD in Industrial Engineering and Management Sciences Jun 2020
-[Northwestern University](https://www.mccormick.northwestern.edu/industrial/), Evanston, USA
-- MS in Industrial Engineering and Management Sciences Sep 2015
-[Northwestern University](https://www.mccormick.northwestern.edu/industrial/), Evanston, USA
-- MS in Industrial and Systems Engineering Feb 2012
-[Korea Advanced Institute of Science and Technology](https://ie.kaist.ac.kr/), Daejeon, South Korea
-- BS in Industrial Engineering Feb 2010
-[Ajou University](http://www2.ajou.ac.kr/ie_en/), Suwon, South Korea
+## Edutation
+- PhD in Industrial Engineering and Management Sciences (2020)
+  - [Northwestern University](https://www.mccormick.northwestern.edu/industrial/), USA
+- MS in Industrial Engineering and Management Sciences (2015)
+  - [Northwestern University](https://www.mccormick.northwestern.edu/industrial/), USA
+- MS in Industrial and Systems Engineering (2012)
+  - [Korea Advanced Institute of Science and Technology](https://ie.kaist.ac.kr/), South Korea
+- BS in Industrial Engineering (2010)
+  - [Ajou University](http://www2.ajou.ac.kr/ie_en/), South Korea
 
