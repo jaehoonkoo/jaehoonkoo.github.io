@@ -4,6 +4,8 @@ title: Publication
 permalink: /publication/
 ---
 
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=nabCGxoAAAAJ&hl=en).
+
 ## Working Papers
 
 - J. Koo, P. Balaprakash, B. Videau, M. Kruse, X. Wu, P. Hovland, M. Hall, Online Autotuning  Framework for High-Performance Computing Applications using Transfer Learning. (in preparation)
@@ -29,3 +31,5 @@ permalink: /publication/
 - J. Koo, D. Klabjan, Improved Classification Based on Deep Belief Networks, 29th International Conference on Artificial Neural Networks (ICANN), Lecture Notes in Computer Science. Springer, vol. 12396, 2020, pp 541–552. [10.1007/978-3-030-61609-0_43](https://doi.org/10.1007/978-3-030-61609-0_43)
 
 - J. Koo, V. B. Mendiratta, M. R. Rahman, A. Walid, Deep Reinforcement Learning for Network Slicing with Heterogeneous Resource Requirements and Time Varying Traffic Dynamics, 15th International Conference on Network and Service Management, 2019. [10.23919/CNSM46954.2019.9012702](https://doi.org/10.23919/CNSM46954.2019.9012702)
+
+- B. Yum, J. Koo, S. Kim, Analysis of Defective Patterns on Wafers in Semiconductor Manufacturing: A Bibliographical Review, IEEE International Conference on Automation Science and Engineering, 2012, pp. 86-90. [10.1109/CoASE.2012.6386471](https://doi.org/10.1109/CoASE.2012.6386471)
