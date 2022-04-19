@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-## Argonne National Laboratory (Lemont, IL, USA)
+## Argonne National Laboratory <font size="2">(Lemont, IL, USA)</font>
 
 - Postdoctoral Appointee in the Mathematics and Computer Science Division (Jul. 2020 - present)
   - Collaborated with plasma physicists to design a combined MLP/CNN model to reconstruct plasma equilibrium images and physical quantities; implemented using Pytorch; achieved 1000x speedup over the traditional algorithms. (Project page: EFIT-AI)
@@ -14,7 +14,7 @@ permalink: /experience/
   - Helped X‑ray scientists by designing corrector algorithm in Tensorflow to clean noisy images from dark‑field X‑ray microscope based on a CNN for optical flow (PWC‑Net).
   - Helped materials scientists using a distributed hyperparameter search software (DeepHyper) to autotune configurations of neuromorphic computing architectures under extreme environments
 
-## Northwestern University (Evanston, IL, USA)
+## Northwestern University <font size="2">(Evanston, IL, USA)</font>
 
 - Research Assistant (Sep. 2015 - Jun. 2020)
 - Projects with Allstate Insurance Company
@@ -23,12 +23,12 @@ permalink: /experience/
   - Designed semi‑supervised learning framework for large‑scale image classification based on stacked what‑where auto‑encoders (CNN).
   - Helped data scientists to classify initially unlabeled images through active learning with the Siamese network (CNN) using Keras‑Tensorflow.
 
-## Nokia Bell Labs (Naperville, IL, USA)
+## Nokia Bell Labs <font size="2">(Naperville, IL, USA)</font>
 
 - Research Intern (Jun. 2018 - Aug. 2018)
   - Developed dynamic resource allocation framework based on deep RL for network slicing of 5G networks; collaborated with mobile network experts; achieved 29\% in loss reduction over the baseline.
 
-## Hyundai Mobis, Hyundai Motor Group (Seoul, South Korea)
+## Hyundai Mobis, Hyundai Motor Group <font size="2">(Seoul, South Korea)</font>
 
 - Specialist (Dec. 2011 - Jan. 2013)
   - Managed supply chain of CKD products sent to Hyundai Mobis Slovakia and Czech branches.
