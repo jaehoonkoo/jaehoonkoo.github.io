@@ -18,6 +18,6 @@ I am a postdoctoral appointee in the [Mathematics and Computer Science Division]
 ## Edutation
 - PhD in Industrial Engineering and Management Sciences, [Northwestern University](https://www.mccormick.northwestern.edu/industrial/), 2020, USA
 - MS in Industrial Engineering and Management Sciences, [Northwestern University](https://www.mccormick.northwestern.edu/industrial/), 2015, USA
-- MS in Industrial and Systems Engineering, [Korea Advanced Institute of Science and Technology](https://ie.kaist.ac.kr/), 2012, South Korea
+- MS in Industrial and Systems Engineering, [Korea Advanced Institute of Science and Technology (KAIST)](https://ie.kaist.ac.kr/), 2012, South Korea
 - BS in Industrial Engineering, [Ajou University](http://www2.ajou.ac.kr/ie_en/), 2010, South Korea
 
