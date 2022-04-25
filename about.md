@@ -12,7 +12,8 @@ permalink: /about/
   - M.S. in Industrial and Systems Engineering, 2012
 - [Ajou University](http://www2.ajou.ac.kr/ie_en/) 
   - B.S. in Industrial Engineering, 2010
-<!-- - Ph.D. in Industrial Engineering and Management Sciences, [Northwestern University](https://www.mccormick.northwestern.edu/industrial/), 2020, USA <font size="1">(USA)</font>
+  
+<!-- - Ph.D. in Industrial Engineering and Management Sciences, [Northwestern University](https://www.mccormick.northwestern.edu/industrial/), 2020, USA 
 - M.S. in Industrial Engineering and Management Sciences, [Northwestern University](https://www.mccormick.northwestern.edu/industrial/), 2015, USA
 - M.S. in Industrial and Systems Engineering, [Korea Advanced Institute of Science and Technology (KAIST)](https://ie.kaist.ac.kr/), 2012, South Korea
 - B.S. in Industrial Engineering, [Ajou University](http://www2.ajou.ac.kr/ie_en/), 2010, South Korea -->
