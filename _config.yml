@@ -19,12 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jaehoon Koo
-  #author: 
-email: jkoo@anl.gov
-description: >- # this means to ignore newlines until "baseurl:"
+author: 
+  name: ML/DL Scientist
+  email: jkoo@anl.gov
+description: > # this means to ignore newlines until "baseurl:"
   This is a personal page
 #baseurl: "" # the subpath of your site, e.g. /blogi
-url: https://jaehoonkoo.github.io  # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jaehoonkoo.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: jaehoonkoo
 permalink: /blog/:year/:month/:title.html
