@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Talks
-permalink: /publication/
+permalink: /talk/
 ---
 
-## Working Papers
+## Talks
 
 - AI for Performance: Customized Monte Carlo Tree Search for LLVM/Polly's Composable Loop Optimization Transformations, Seminar at RAPIDS2 Project group, Virtual. Apr. 2022
 
