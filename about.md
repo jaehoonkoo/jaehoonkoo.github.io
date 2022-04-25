@@ -19,17 +19,24 @@ permalink: /about/
 - B.S. in Industrial Engineering, [Ajou University](http://www2.ajou.ac.kr/ie_en/), 2010, South Korea -->
 
 ## Skills
-- Programming Languages: Python, C++, MATLAB, R, AMPL
-- Tools: Git, Linux, Vim, LaTex, Docker, Kubernetes, Spack
-- ML-Software/libraries: 
-- PyTorch, Tensorflow, Keras, Caffe, Theano, Scikit-Learn, Gym, Ytopt, DeepHyper, GPTune
+- Programming Languages
+  - Python, C++, MATLAB, R, AMPL
+- Tools
+  - Git, Linux, Vim, LaTex, Docker, Kubernetes, Spack
+- ML-Software/libraries
+  - PyTorch, Tensorflow, Keras, Caffe, Theano, Scikit-Learn, Gym, Ytopt, DeepHyper, GPTune
 
 ## Teaching experience
-- TA/lab instructor for MSIA-423 Analytics Value Chain, Northwestern University (Spring 2020)  
-- TA/lab instructor for MSIA-432 Deep Learning, Northwestern University (Spring 2018)  
-- TA for IEMS-393-2 IE Design Project, Northwestern University (Winter 2020)  
-- TA for IEMS-310 Operations Research, Northwestern University (Spring 2017)  
-- TA for IEMS-385 Introduction to Health Systems Management, Northwestern University (Fall 2015)  
+- TA/lab instructor, Northwestern University (Spring 2020)  
+  - MSIA-423 Analytics Value Chain
+- TA/lab instructor, Northwestern University (Spring 2018)
+  - MSIA-432 Deep Learning
+- TA, Northwestern University (Winter 2020)  
+  - IEMS-393-2 IE Design Project
+- TA, Northwestern University (Spring 2017)
+  - IEMS-310 Operations Research
+- TA, Northwestern University (Fall 2015)
+  - IEMS-385 Introduction to Health Systems Management
 
 <!-- ## Profiles
 - Argonne profile at [https://www.anl.gov/profile/jaehoon-koo](https://www.anl.gov/profile/jaehoon-koo). 
