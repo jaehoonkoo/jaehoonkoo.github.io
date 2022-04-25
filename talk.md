@@ -4,8 +4,6 @@ title: Talks
 permalink: /talk/
 ---
 
-## Talks
-
 - AI for Performance: Customized Monte Carlo Tree Search for LLVM/Polly's Composable Loop Optimization Transformations, Seminar at RAPIDS2 Project group, Virtual. Apr. 2022
 
 - Model Order Reduction of EFIT with Deep Neural Networks, Invited talk to ML working group at Plasma Science and Fusion Center, Massachusetts Institute of Technology (MIT), Virtual. Apr. 2022
