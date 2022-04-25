@@ -14,6 +14,10 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 - J. Koo, R. Maulik, Y. Feng, Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks. (in preparation)
 
+- J. Koo, T. Han, Multi‑Objective Optimization for Efficient and Clean Power‑Train Systems using the Non Dominated Sorting Genetic Algorithm. (in preparation)
+
+<!-- - M. Dorier, R. Egele, P. Balaprakash, J. Koo, S. Madireddy, A. D. Malony, S. Ramesh, R. Ross, HPC Storage Service Autotuning using Variational-Autoencoder-Guided Asynchronous Bayesian Optimization. (in preparation) -->
+
 ## Refereed Journal Articles
 
 - L. Lao, S. Kruger, C. Akcay, P. Balaprakash, T Bechtel, E. Howell, J. Koo, J. Leddy, M. Leinhauser, Y. Liu, S. Madireddy, J. McClenaghan, D. Orozco, A. Pankin, D. Schissel, S. Smith, X. Sun, S. Williams, and the EFIT-AI Team, Application of Machine Learning and Artificial Intelligence to Extend EFIT Equilibrium Reconstruction. (under review)
@@ -35,3 +39,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 - J. Koo, V. B. Mendiratta, M. R. Rahman, A. Walid, Deep Reinforcement Learning for Network Slicing with Heterogeneous Resource Requirements and Time Varying Traffic Dynamics, 15th International Conference on Network and Service Management, 2019. [10.23919/CNSM46954.2019.9012702](https://doi.org/10.23919/CNSM46954.2019.9012702)
 
 - B. Yum, J. Koo, S. Kim, Analysis of Defective Patterns on Wafers in Semiconductor Manufacturing: A Bibliographical Review, IEEE International Conference on Automation Science and Engineering, 2012, pp. 86-90. [10.1109/CoASE.2012.6386471](https://doi.org/10.1109/CoASE.2012.6386471)
+
+<!-- ## Open-source software
+
+- P. Balaprakash  -->
