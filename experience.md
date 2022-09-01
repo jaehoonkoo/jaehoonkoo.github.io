@@ -4,8 +4,8 @@ title: Experience
 permalink: /experience/
 ---
 
-## Hanyang University, ERICA <font size="2">(Ansan, Gyeonggi, South Korea)</font>
-- Assistant Professor in the School of Business Administration (Sep. 2022 - present)
+## Hanyang University <font size="2">(Ansan, Gyeonggi, South Korea)</font>
+- Assistant Professor in the School of Business Administration at ERICA campus (Sep. 2022 - present)
 
 ## Argonne National Laboratory <font size="2">(Lemont, IL, USA)</font>
 
