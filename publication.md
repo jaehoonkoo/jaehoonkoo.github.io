@@ -20,7 +20,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Refereed Journal Articles
 
-- J. Koo, D. Klabjan, J. Utke, Inverse Classification with Limited Budget and Maximum Number of Perturbed Samples, To appear in Expert Systems With Applications [preprint](https://arxiv.org/abs/2009.14111)
+- J. Koo, D. Klabjan, J. Utke, An inverse classification framework with limited budget and maximum number of perturbed samples, To appear in Expert Systems With Applications [preprint](https://arxiv.org/abs/2009.14111)
 
 - L. Lao, S. Kruger, C. Akcay, P. Balaprakash, T Bechtel, E. Howell, J. Koo, J. Leddy, M. Leinhauser, Y. Liu, S. Madireddy, J. McClenaghan, D. Orozco, A. Pankin, D. Schissel, S. Smith, X. Sun, S. Williams, and the EFIT-AI Team, Application of Machine Learning and Artificial Intelligence to Extend EFIT Equilibrium Reconstruction, Plasma Physics and Controlled Fusion, vol. 64 (7), 2022. [10.1088/1361-6587/ac6fff](https://doi.org/10.1088/1361-6587/ac6fff)
 
