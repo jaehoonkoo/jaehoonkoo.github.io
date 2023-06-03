@@ -16,7 +16,7 @@ Here is my [CV](https://drive.google.com/file/d/1jQFX4aI355KSyiB9joGskpJvUIQzSmD
 - 7+ years experience in Python with PyTorch, Tensorflow, Gym, Scikit-Learn, and Git deployment. 
 - 5+ years experience in real-world data manipulation/analysis of images and text.
 
-## Project
+## Projects
 - (PI) Explainable and interpretable AI systems based on deep learning for classification, National Research Foundation of Korea (06.2023-02.2026)
 - EFIT‐AI: ML/AI Assisted Tokamak Equilibrium Reconstruction
 - PROTEAS‐TUNE: Programming Toolchain for Emerging Architectures and Systems
