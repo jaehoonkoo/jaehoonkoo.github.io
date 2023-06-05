@@ -18,5 +18,5 @@ Here is my [CV](https://drive.google.com/file/d/1jQFX4aI355KSyiB9joGskpJvUIQzSmD
 
 ## Projects
 - 2023.06-2026.02 PI, Explainable and interpretable AI systems based on deep learning for classification, National Research Foundation of Korea (NRF)
-- 2021-2022 Posdoc, EFIT‐AI: ML/AI Assisted Tokamak Equilibrium Reconstruction, DOE FES Project
-- 2020-2022 Posdoc, PROTEAS‐TUNE: Programming Toolchain for Emerging Architectures and Systems, DOE ASCR Exascale Computing Project 
+- 2021-2022 Postdoc, EFIT‐AI: ML/AI Assisted Tokamak Equilibrium Reconstruction, DOE FES Project
+- 2020-2022 Postdoc, PROTEAS‐TUNE: Programming Toolchain for Emerging Architectures and Systems, DOE ASCR Exascale Computing Project 
