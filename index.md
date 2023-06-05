@@ -17,6 +17,6 @@ Here is my [CV](https://drive.google.com/file/d/1jQFX4aI355KSyiB9joGskpJvUIQzSmD
 - 5+ years experience in real-world data manipulation/analysis of images and text.
 
 ## Projects
-- (PI) Explainable and interpretable AI systems based on deep learning for classification, National Research Foundation of Korea (06.2023-02.2026)
-- EFIT‐AI: ML/AI Assisted Tokamak Equilibrium Reconstruction
-- PROTEAS‐TUNE: Programming Toolchain for Emerging Architectures and Systems
+- 2023.06-2026.02 Explainable and interpretable AI systems based on deep learning for classification, National Research Foundation of Korea (Principal Investigator)
+- 2021-2022 EFIT‐AI: ML/AI Assisted Tokamak Equilibrium Reconstruction, DOE FES Project
+- 2020-2022 PROTEAS‐TUNE: Programming Toolchain for Emerging Architectures and Systems, DOE ASCR Exascale Computing Project 
