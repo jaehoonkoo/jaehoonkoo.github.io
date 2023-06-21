@@ -8,8 +8,6 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Working Papers
 
-- J. Koo, P. Balaprakash, B. Videau, M. Kruse, X. Wu, P. Hovland, M. Hall, Online Autotuning  Framework for High-Performance Computing Applications using Transfer Learning. (in preparation)
-
 - J. Koo, C. Akcay, P. Balaprakash, S. Madireddy, L. Lao, Model Order Reduction of EFIT Equilibrium Reconstruction with Deep Neural Networks. (in preparation)
 
 - J. Koo, R. Maulik, Y. Feng, Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks. (in preparation)
