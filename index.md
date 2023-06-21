@@ -13,8 +13,8 @@ Here is my [CV](https://drive.google.com/file/d/1jQFX4aI355KSyiB9joGskpJvUIQzSmD
 
 ## Summary
 - Expert in ML modeling with CNN, RNN, RL, and statistical testing/regression. 
-- 7+ years experience in Python with PyTorch, Tensorflow, Gym, Scikit-Learn, and Git deployment. 
-- 5+ years experience in real-world data manipulation/analysis of images and text.
+- 10+ years experience in Python with PyTorch, Tensorflow, Gym, Scikit-Learn, and Git deployment. 
+- 8+ years experience in real-world data manipulation/analysis of images and text.
 
 ## Projects
 - 2023-2026, Principal Investigator, Explainable and interpretable AI systems based on deep learning for classification, National Research Foundation of Korea (한국연구재단 기초연구사업-기본연구) 
