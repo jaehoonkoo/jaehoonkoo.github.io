@@ -28,7 +28,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Refereed Proceedings
 
-- T. Randall*, J. Koo*, B. Videau, M. Kruse, X. Wu, P. Hovland, M. Hall, R. Ge, and P. Balaprakash*, Transfer-Learning-Based Autotuning Using Gaussian Copula, International Conference on Supercomputing (ICS ’23), 2023. [10.1145/3577193.3593712](https://doi.org/10.1145/3577193.3593712) (*:Authors contributed equally to this work)
+- T. Randall\*, J. Koo\*, B. Videau, M. Kruse, X. Wu, P. Hovland, M. Hall, R. Ge, and P. Balaprakash\*, Transfer-Learning-Based Autotuning Using Gaussian Copula, International Conference on Supercomputing (ICS ’23), 2023. [10.1145/3577193.3593712](https://doi.org/10.1145/3577193.3593712) (\*:Authors contributed equally to this work)
 
 - X. Wu, P. Balaprakash, M. Kruse, J. Koo, B. Videau, P. Hovland, V. Taylor, B. Geltz, S. Jana, and M. Hall, ytopt: Autotuning Scientific Applications for Energy Efficiency at Large Scales, Cray User Group Conference 2023 (CUG’23), 2023. [10.48550/arXiv.2303.16245](https://arxiv.org/abs/2303.16245)
 
