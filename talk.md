@@ -4,7 +4,7 @@ title: Talks
 permalink: /talk/
 ---
 
-- Topics in Deep Learning Classification, Brown Bag Seminar at Hanyang University Management Research Institute, Ansan, South Korea, Nov. 2022
+- Topics in Deep Learning Classification, Brown-Bag Seminar at Hanyang University Management Research Institute, Ansan, South Korea, Nov. 2022
 
 - AI for Performance: Customized Monte Carlo Tree Search for LLVM/Polly's Composable Loop Optimization Transformations, Seminar at RAPIDS2 Project group, Virtual. Apr. 2022
 
