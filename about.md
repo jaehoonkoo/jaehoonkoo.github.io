@@ -27,14 +27,14 @@ permalink: /about/
   - PyTorch, Tensorflow, Keras, Caffe, Theano, Scikit-Learn, Gym, Ytopt, DeepHyper, GPTune
 
 ## Teaching experience
-- Lecturer, Hanyang University ERICA (Spring 2023)
+- Lecturer, Hanyang University-ERICA (Spring 2023)
   - BAS3003 Operations Analytics
-- Lecturer, Hanyang University ERICA (Spring 2023)
+- Lecturer, Hanyang University-ERICA (Spring 2023)
   - KDI0003 Digital Production Management and Manufacturing
-- Lecturer, Hanyang University ERICA (Fall 2022)
+- Lecturer, Hanyang University-ERICA (Fall 2022)
   - BUS2013 Operations Management
-- Lecturer, Hanyang University ERICA (Fall 2022)
-  - BUS2008 Advanced Statistics for Business
+- Lecturer, Hanyang University-ERICA (Fall 2022)
+  - BUS1008 Advanced Statistics for Business
 - TA/lab instructor, Northwestern University (Spring 2020)  
   - MSIA-423 Analytics Value Chain
 - TA/lab instructor, Northwestern University (Spring 2018)
