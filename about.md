@@ -26,7 +26,7 @@ permalink: /about/
 - ML-Software/libraries
   - PyTorch, Tensorflow, Keras, Caffe, Theano, Scikit-Learn, Gym, Ytopt, DeepHyper, GPTune
 
- <!-- ## Teaching experience
+<!-- ## Teaching experience
 - Lecturer, Hanyang University-ERICA (Spring 2023)
   - BAS3003 Operations Analytics
 - Lecturer, Hanyang University-ERICA (Spring 2023)
