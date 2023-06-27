@@ -10,7 +10,7 @@ permalink: /about/
   - M.S. in Industrial Engineering and Management Sciences, 2015
 - [Korea Advanced Institute of Science and Technology (KAIST)](https://ie.kaist.ac.kr/) 
   - M.S. in Industrial and Systems Engineering, 2012
-- [Ajou University](http://www2.ajou.ac.kr/ie_en/) 
+- [Ajou University](https://ie.ajou.ac.kr/ie/index.do) 
   - B.S. in Industrial Engineering, 2010
   
 <!-- - Ph.D. in Industrial Engineering and Management Sciences, [Northwestern University](https://www.mccormick.northwestern.edu/industrial/), 2020, USA 
@@ -26,7 +26,7 @@ permalink: /about/
 - ML-Software/libraries
   - PyTorch, Tensorflow, Keras, Caffe, Theano, Scikit-Learn, Gym, Ytopt, DeepHyper, GPTune
 
-## Teaching experience
+ <!-- ## Teaching experience
 - Lecturer, Hanyang University-ERICA (Spring 2023)
   - BAS3003 Operations Analytics
 - Lecturer, Hanyang University-ERICA (Spring 2023)
@@ -44,7 +44,7 @@ permalink: /about/
 - TA, Northwestern University (Spring 2017)
   - IEMS-310 Operations Research
 - TA, Northwestern University (Fall 2015)
-  - IEMS-385 Introduction to Health Systems Management
+  - IEMS-385 Introduction to Health Systems Management -->
 
 <!-- ## Profiles
 - Argonne profile at [https://www.anl.gov/profile/jaehoon-koo](https://www.anl.gov/profile/jaehoon-koo). 
