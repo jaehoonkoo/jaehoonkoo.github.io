@@ -8,11 +8,13 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Working Papers
 
-- J. Koo, C. Akcay, P. Balaprakash, S. Madireddy, L. Lao, Model Order Reduction of EFIT Equilibrium Reconstruction with Deep Neural Networks. (in preparation)
+- J. Koo, K. Park, Efficient Scheduling Strategy for Semiconductor Manufacturing based on Reinforcement Learning (in preparation)
 
-- J. Koo, R. Maulik, Y. Feng, Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks. (in preparation)
+- J. Koo, T. Han, Multi‑Objective Optimization for Efficient and Clean Power‑Train Systems using the Non Dominated Sorting Genetic Algorithm (in preparation)
 
-- J. Koo, T. Han, Multi‑Objective Optimization for Efficient and Clean Power‑Train Systems using the Non Dominated Sorting Genetic Algorithm. (in preparation)
+- J. Koo, C. Akcay, P. Balaprakash, S. Madireddy, L. Lao, Model Order Reduction of EFIT Equilibrium Reconstruction with Deep Neural Networks (in preparation)
+
+- J. Koo, R. Maulik, Y. Feng, Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks (in preparation)
 
 <!-- - M. Dorier, R. Egele, P. Balaprakash, J. Koo, S. Madireddy, A. D. Malony, S. Ramesh, R. Ross, HPC Storage Service Autotuning using Variational-Autoencoder-Guided Asynchronous Bayesian Optimization. (in preparation) -->
 
