@@ -7,8 +7,8 @@ permalink: /teaching/
 ## Hanyang University <font size="2">(Ansan, Gyeonggi, South Korea)</font>
 - Lecturer, BAS3003 Operations Analytics (Spring 2023)
 - Lecturer, KDI0003 Digital Production Management and Manufacturing (Spring 2023)
-- Lecturer, BUS2013 Operations Management (Fall 2022)
-- Lecturer, BUS1008 Advanced Statistics for Business (Fall 2022)
+- Lecturer, BUS2013 Operations Management (Fall 2022, 2023)
+- Lecturer, BUS1008 Advanced Statistics for Business (Fall 2022, 2023)
 
 ## Northwestern University <font size="2">(Evanston, IL, USA)</font>
 - TA/lab instructor, MSIA-423 Analytics Value Chain (Spring 2020)
