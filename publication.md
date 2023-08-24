@@ -8,7 +8,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Working Papers
 
-- J. Koo, K. Park, Efficient Scheduling Strategy for Semiconductor Manufacturing based on Reinforcement Learning (in preparation)
+- J. Koo, K. Park, S. Kim, Efficient Scheduling Strategy for Semiconductor Manufacturing based on Reinforcement Learning (in preparation)
 
 - J. Koo, T. Han, Multi‑Objective Optimization for Efficient and Clean Power‑Train Systems using the Non Dominated Sorting Genetic Algorithm (in preparation)
 
