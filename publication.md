@@ -30,7 +30,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 - X. Wu, P. Balaprakash, M. Kruse, **J. Koo**, B. Videau, P. Hovland, V. Taylor, B. Geltz, S. Jana, and M. Hall, ytopt: Autotuning Scientific Applications for Energy Efficiency at Large Scales, Cray User Group Conference (CUG), 2023. [10.48550/arXiv.2303.16245](https://arxiv.org/abs/2303.16245)
 
-- M. Dorier, R. Egele, P. Balaprakash, J. Koo, S. Madireddy, A. D. Malony, S. Ramesh, R. Ross, HPC Storage Service Autotuning using Variational-Autoencoder-Guided Asynchronous Bayesian Optimization, IEEE International Conference on Cluster Computing (CLUSTER)}, 2022, pp. 381-393. [10.1109/CLUSTER51413.2022.00049](https://doi.org/10.1109/CLUSTER51413.2022.00049)
+- M. Dorier, R. Egele, P. Balaprakash, **J. Koo**, S. Madireddy, A. D. Malony, S. Ramesh, R. Ross, HPC Storage Service Autotuning using Variational-Autoencoder-Guided Asynchronous Bayesian Optimization, IEEE International Conference on Cluster Computing (CLUSTER), 2022, pp. 381-393. [10.1109/CLUSTER51413.2022.00049](https://doi.org/10.1109/CLUSTER51413.2022.00049)
 
 - **J. Koo**, P. Balaprakash, M. Kruse, X. Wu, P. Hovland, M. Hall, Customized Monte Carlo Tree Search for LLVM/Polly's Composable Loop Optimization Transformations, 12th IEEE International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS), 2021, pp. 82-93. [10.1109/PMBS54543.2021.00015](https://doi.org/10.1109/PMBS54543.2021.00015) [[code]](https://github.com/ytopt-team/ytopt/tree/mcts/ytopt/cmcts)
 
