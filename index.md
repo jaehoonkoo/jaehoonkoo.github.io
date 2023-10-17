@@ -20,3 +20,4 @@ Here is my [CV](https://drive.google.com/file/d/1jQFX4aI355KSyiB9joGskpJvUIQzSmD
 - 2023-2026, Principal Investigator, Explainable and interpretable AI systems based on deep learning for classification, National Research Foundation of Korea (한국연구재단 기초연구사업-기본연구) 
 - 2021-2022, Postdoc Researcher, EFIT‐AI: ML/AI Assisted Tokamak Equilibrium Reconstruction, DOE FES Project
 - 2020-2022, Postdoc Researcher, PROTEAS‐TUNE: Programming Toolchain for Emerging Architectures and Systems, DOE ASCR Exascale Computing Project 
+- 2020-2021, Postdoc Researcher, Circuit AI, Laboratory Directed Research and Development program at Argonne National Laboratory
