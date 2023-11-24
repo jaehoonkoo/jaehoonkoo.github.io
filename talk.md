@@ -4,6 +4,8 @@ title: Talks
 permalink: /talk/
 ---
 
+- 사회적경제와 인공지능–심층학습중심으, 2023 사회적경제혁신리더 과정 at Hanyang University, Ansan, South Korea, Nov. 2023
+
 - Topics in Deep Learning Classification, Brown-Bag Seminar at Hanyang University Management Research Institute, Ansan, South Korea, Nov. 2022
 
 - AI for Performance: Customized Monte Carlo Tree Search for LLVM/Polly's Composable Loop Optimization Transformations, Seminar at RAPIDS2 Project group, Virtual. Apr. 2022
