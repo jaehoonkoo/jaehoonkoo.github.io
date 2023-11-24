@@ -4,7 +4,7 @@ title: Talks
 permalink: /talk/
 ---
 
-- 사회적경제와 인공지능–심층학습중심으, 2023 사회적경제혁신리더 과정 at Hanyang University, Ansan, South Korea, Nov. 2023
+- 사회적경제와 인공지능–심층학습중심으로, 2023 사회적경제혁신리더 과정 at Hanyang University, Ansan, South Korea, Nov. 2023
 
 - Topics in Deep Learning Classification, Brown-Bag Seminar at Hanyang University Management Research Institute, Ansan, South Korea, Nov. 2022
 
