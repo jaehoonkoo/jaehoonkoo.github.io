@@ -12,6 +12,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 - J. Koo, T. Han, Multi‑Objective Optimization for Efficient and Clean Power‑Train Systems using the Non Dominated Sorting Genetic Algorithm
 
+- J. Koo, K. Oh, T. Han, Deep Learning Based KRW/USD Exchange Rate Prediction
+
 - J. Koo, C. Akcay, P. Balaprakash, S. Madireddy, L. Lao, Model Order Reduction of EFIT Equilibrium Reconstruction with Deep Neural Networks
 
 - J. Koo, R. Maulik, Y. Feng, Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks
