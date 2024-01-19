@@ -11,7 +11,7 @@ I am an Assistant Professor in the [School of Business Administration](https://i
 
 Here is my [CV](https://drive.google.com/file/d/1jQFX4aI355KSyiB9joGskpJvUIQzSmDg/view) and find me at [LinkedIn](https://www.linkedin.com/in/jaehoon-koo-bb384aa1/). 
 
-I am looking for a highly motivated student who are interesed in ML, DL, and optimization; please contact me at [jaehoonkoo@hanyang.ac.kr](jaehoonkoo@hanyang.ac.kr) with your 1) CV, 2) transcript, and 3) research statement.
+I am looking for a highly motivated student who are interesed in ML, DL, and optimization. Please contact me at jaehoonkoo[at]hanyang.ac.kr with your 1) CV, 2) transcript, and 3) research statement.
 
 ## Summary
 - Expert in ML modeling with CNN, RNN, RL, and statistical testing/regression.
