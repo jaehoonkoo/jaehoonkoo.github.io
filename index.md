@@ -11,8 +11,10 @@ I am an Assistant Professor in the [School of Business Administration](https://i
 
 Here is my [CV](https://drive.google.com/file/d/1jQFX4aI355KSyiB9joGskpJvUIQzSmDg/view) and find me at [LinkedIn](https://www.linkedin.com/in/jaehoon-koo-bb384aa1/). 
 
+I am looking for a highly motivated student who are interesed in ML, DL, and optimization. Please contact me with your 1) CV, 2) transcript, and 3) research statement.
+
 ## Summary
-- Expert in ML modeling with CNN, RNN, RL, and statistical testing/regression. 
+- Expert in ML modeling with CNN, RNN, RL, and statistical testing/regression.
 - 9+ years experience in Python with PyTorch, Tensorflow, Gym, Scikit-Learn, and Git deployment. 
 - 7+ years experience in real-world data manipulation/analysis of images and text.
 
