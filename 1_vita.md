@@ -10,7 +10,7 @@ permalink: /vita/
   - M.S. in Industrial Engineering and Management Sciences, 2015
 - [Korea Advanced Institute of Science and Technology (KAIST)](https://ie.kaist.ac.kr/) 
   - M.S. in Industrial and Systems Engineering, 2012
-- [Ajou University](https://ie.ajou.ac.kr/ie/index.do) 
+- [Ajou University](https://www.ajou.ac.kr) 
   - B.S. in Industrial Engineering, 2010
   
 <!-- - Ph.D. in Industrial Engineering and Management Sciences, [Northwestern University](https://www.mccormick.northwestern.edu/industrial/), 2020, USA 
@@ -19,10 +19,10 @@ permalink: /vita/
 - B.S. in Industrial Engineering, [Ajou University](https://ie.ajou.ac.kr/ie/index.do), 2010, South Korea -->
 
 ## Experience
-- Hanyang University <font size="2">(Ansan, Gyeonggi, South Korea)</font>
+- [Hanyang University](https://www.hanyang.ac.kr/) <font size="2">(Ansan, Gyeonggi, South Korea)</font>
   - Assistant Professor in the School of Business Administration (Sep. 2022 - present)
 
-- Argonne National Laboratory <font size="2">(Lemont, IL, USA)</font>
+- [Argonne National Laboratory](https://www.anl.gov/) <font size="2">(Lemont, IL, USA)</font>
   - Postdoctoral Appointee in the Mathematics and Computer Science Division (Jul. 2020 - Jul. 2022)
     - Collaborated with plasma physicists to design a combined MLP/CNN model to reconstruct plasma equilibrium images and physical quantities; implemented using Pytorch; achieved 1000x speedup over the traditional algorithms. (Project page: EFIT-AI)
     - Developed autotuning framework to explore a tree‑like search space based on Monte Carlo tree search; obtained 3.7x speedup over the default heuristic optimizations on Exascale proxy apps; collaborated with experts on compiler optimization for HPC. [[code]](https://github.com/ytopt-team/ytopt/blob/mcts/ytopt/cmcts/README.md) [[tutorial]](https://github.com/ytopt-team/ytopt/blob/mcts/docs/tutorials/mcts-gemm/tutorial-mcts-gemm.md)
@@ -30,7 +30,7 @@ permalink: /vita/
     - Maintained a ML based autotuning software package (Ytopt); provided tutorial examples of HPC proxy apps; available in Spack.
     - Helped X‑ray scientists by designing corrector algorithm in Tensorflow to clean noisy images from dark‑field X‑ray microscope based on a CNN for optical flow (PWC‑Net).
     - Helped materials scientists using a distributed hyperparameter search software (DeepHyper) to autotune configurations of neuromorphic computing architectures under extreme environments
-- Northwestern University <font size="2">(Evanston, IL, USA)</font>
+- [Northwestern University](https://www.northwestern.edu/) <font size="2">(Evanston, IL, USA)</font>
   - Research Assistant (Sep. 2015 - Jun. 2020)
   - Projects with Allstate Insurance Company
     - Developed inverse classification framework for churn analysis and for mortality prediction on sequential data; implemented using Tensorflow and PuLP; successfully perturbed samples as desired achieving 17% improvements over the baseline.
@@ -89,15 +89,10 @@ permalink: /vita/
 - Argonne profile at [https://www.anl.gov/profile/jaehoon-koo](https://www.anl.gov/profile/jaehoon-koo). 
 - Northwestern website at [https://sites.google.com/a/u.northwestern.edu/jaehoon_koo/home](https://sites.google.com/a/u.northwestern.edu/jaehoon_koo/home). -->
 
-<!--- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<!-- - This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
 
 [jekyll-organization]: https://github.com/jekyll -->
