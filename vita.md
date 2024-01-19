@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: Vita
+permalink: /vita/
 ---
 
 ## Edutation
