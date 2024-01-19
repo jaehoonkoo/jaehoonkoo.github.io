@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vita
-permalink: /vita/
+permalink: /0_vita/
 ---
 
 ## Edutation
