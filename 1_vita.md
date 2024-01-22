@@ -45,7 +45,7 @@ permalink: /vita/
     - Managed supply chain of CKD products sent to Hyundai Mobis Slovakia and Czech branches.
     - Solved quality issues with engineers at car-assembly and part-manufacturing lines including domestic and overseas factories.
 
-## Publications
+## Publications ([Google Scholar](https://scholar.google.com/citations?user=nabCGxoAAAAJ&hl=en))
 ### Refereed Journal Articles
 - **J. Koo**, D. Klabjan, J. Utke, An inverse classification framework with limited budget and maximum number of perturbed samples, Expert Systems With Applications, vol. 212, 2023. [10.1016/j.eswa.2022.118761](https://doi.org/10.1016/j.eswa.2022.118761)
 - L. Lao, S. Kruger, C. Akcay, P. Balaprakash, T Bechtel, E. Howell, **J. Koo**, J. Leddy, M. Leinhauser, Y. Liu, S. Madireddy, J. McClenaghan, D. Orozco, A. Pankin, D. Schissel, S. Smith, X. Sun, S. Williams, and the EFIT-AI Team, Application of Machine Learning and Artificial Intelligence to Extend EFIT Equilibrium Reconstruction, Plasma Physics and Controlled Fusion, vol. 64 (7), 2022. [10.1088/1361-6587/ac6fff](https://doi.org/10.1088/1361-6587/ac6fff)
