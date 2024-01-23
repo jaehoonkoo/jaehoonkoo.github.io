@@ -13,7 +13,7 @@ Here is my [CV](https://drive.google.com/file/d/1jQFX4aI355KSyiB9joGskpJvUIQzSmD
 
 I am looking for a highly motivated student who are interesed in ML, DL, and optimization. Please contact me at jaehoonkoo[at]hanyang.ac.kr with your 1) CV, 2) transcript, and 3) research statement.
 
-<-- ## Summary
+<!-- ## Summary
 - Expert in ML modeling with CNN, RNN, RL, and statistical testing/regression.
 - 9+ years experience in Python with PyTorch, Tensorflow, Gym, Scikit-Learn, and Git deployment. 
 - 7+ years experience in real-world data manipulation/analysis of images and text. -->
