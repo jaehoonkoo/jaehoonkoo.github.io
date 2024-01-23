@@ -20,8 +20,8 @@
 title: Jaehoon Koo
 name: Ph.D.
 email: jaehoonkoo@hanyang.ac.kr
-description: > # this means to ignore newlines until "baseurl:"
-  Home
+#description: > # this means to ignore newlines until "baseurl:"
+#  Home
 #baseurl: "" # the subpath of your site, e.g. /blogi
 url: "https://jaehoonkoo.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jaehoonkoo
