@@ -18,7 +18,7 @@ permalink: /vita/
 - M.S. in Industrial and Systems Engineering, [Korea Advanced Institute of Science and Technology (KAIST)](https://ie.kaist.ac.kr/), 2012, South Korea
 - B.S. in Industrial Engineering, [Ajou University](https://ie.ajou.ac.kr/ie/index.do), 2010, South Korea -->
 
-## Experience
+## Work Experience
 - [Hanyang University](https://www.hanyang.ac.kr/web/eng) <font size="2">(Ansan, Gyeonggi, South Korea)</font>
   - Assistant Professor in the School of Business Administration (Sep. 2022 - present)
 
