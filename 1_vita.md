@@ -56,7 +56,7 @@ permalink: /vita/
 ## Publications 
 - [Google Scholar](https://scholar.google.com/citations?user=nabCGxoAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3742-1485)
 
-### Working papers
+### Working Papers
 - Deep Learning Based KRW/USD Exchange Rate Prediction
 - Efficient Scheduling Strategy for Semiconductor Manufacturing based on Reinforcement Learning
 - Multi‑Objective Optimization for Efficient and Clean Power‑Train Systems using the Non Dominated Sorting Genetic Algorithm
