@@ -32,11 +32,11 @@ permalink: /vita/
     - Helped X‑ray scientists by designing corrector algorithm in Tensorflow to clean noisy images from dark‑field X‑ray microscope based on a CNN for optical flow (PWC‑Net).
     - Helped materials scientists using a distributed hyperparameter search software (DeepHyper) to autotune configurations of neuromorphic computing architectures under extreme environments -->
 
-- [Northwestern University](https://www.northwestern.edu/) <font size="2">(Evanston, IL, USA)</font>
+<!-- - [Northwestern University](https://www.northwestern.edu/) <font size="2">(Evanston, IL, USA)</font>
   - Research Assistant (Sep. 2015 - Jun. 2020) 
     - Projects with Allstate Insurance Company
 
-<!-- - Projects with Allstate Insurance Company
+ - Projects with Allstate Insurance Company
     - Developed inverse classification framework for churn analysis and for mortality prediction on sequential data; implemented using Tensorflow and PuLP; successfully perturbed samples as desired achieving 17% improvements over the baseline.
     - Developed a combined model of CNN and RNN for hierarchical classification of images; implemented using Tensorflow; achieved 2.5% improvements over the conventional CNNs. [[code]](https://github.com/jaehoonkoo/h_classification)
     - Designed semi‑supervised learning framework for large‑scale image classification based on stacked what‑where auto‑encoders (CNN).
