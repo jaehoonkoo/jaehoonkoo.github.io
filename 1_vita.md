@@ -64,7 +64,7 @@ permalink: /vita/
 - Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks
 
 ### Refereed Journal Articles
-- T. Han, **J. Koo**, Machine Learning Based Surrogate Models for Knock Prediction in Syngas (H₂/CO) Added SI Engine Combustion, vol. 19, 2024. [10.22728/jecc.2024.19.1.049](https://doi.org/10.22728/jecc.2024.19.1.049)
+- T. Han, **J. Koo**, Machine Learning Based Surrogate Models for Knock Prediction in Syngas (H₂/CO) Added SI Engine Combustion, Journal of Energy & Climate Change, vol. 19, 2024. [10.22728/jecc.2024.19.1.049](https://doi.org/10.22728/jecc.2024.19.1.049)
 - **J. Koo**, D. Klabjan, J. Utke, An inverse classification framework with limited budget and maximum number of perturbed samples, Expert Systems With Applications, vol. 212, 2023. [10.1016/j.eswa.2022.118761](https://doi.org/10.1016/j.eswa.2022.118761)
 - L. Lao, S. Kruger, C. Akcay, P. Balaprakash, T Bechtel, E. Howell, **J. Koo**, J. Leddy, M. Leinhauser, Y. Liu, S. Madireddy, J. McClenaghan, D. Orozco, A. Pankin, D. Schissel, S. Smith, X. Sun, S. Williams, and the EFIT-AI Team, Application of Machine Learning and Artificial Intelligence to Extend EFIT Equilibrium Reconstruction, Plasma Physics and Controlled Fusion, vol. 64 (7), 2022. [10.1088/1361-6587/ac6fff](https://doi.org/10.1088/1361-6587/ac6fff)
 - **J. Koo**, S. Hwang, A Unified Defect Pattern Analysis of Wafer Maps Using Density-Based Clustering, IEEE Access, vol. 9, 2021, pp. 78873-78882. [10.1109/ACCESS.2021.3084221](https://doi.org/10.1109/ACCESS.2021.3084221)
