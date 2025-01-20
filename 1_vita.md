@@ -57,6 +57,8 @@ permalink: /vita/
 - [Google Scholar](https://scholar.google.com/citations?user=nabCGxoAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3742-1485)
 
 ### Working Papers
+- Development of an Automatic Speech Recognition System Based on Deep Learning for Kyrgyz Language
+- Face Recognition: Comparison between a Traditional Method Used in Latin America and a Deep Learning Based Approach
 - Deep Learning Based KRW/USD Exchange Rate Prediction
 - Efficient Scheduling Strategy for Semiconductor Manufacturing based on Reinforcement Learning
 - Multi‑Objective Optimization for Efficient and Clean Power‑Train Systems using the Non Dominated Sorting Genetic Algorithm
@@ -106,8 +108,8 @@ permalink: /vita/
 ### Hanyang University <font size="2">(Ansan, Gyeonggi, South Korea)</font>
 - Instructor, BUC9073 AI and Service Operation (Fall 2024)
 - Instructor, BUS5033 Operations Management Simulation (Spring 2024)
-- Instructor, BAS3003 Operations Analytics (Spring 2023, 2024)
-- Instructor, KDI0003 Digital Production Management and Manufacturing (Spring 2023)
+- Instructor, BAS3003 Operations Analytics (Spring 2023, 2024, 2025)
+- Instructor, KDI0003 Digital Production Management and Manufacturing (Spring 2023, 2025)
 - Instructor, BUS2013 Operations Management (Fall 2022, 2023)
 - Instructor, BUS1008 Advanced Statistics for Business (Fall 2022, 2023, 2024)
 
