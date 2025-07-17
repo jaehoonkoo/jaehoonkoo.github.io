@@ -85,6 +85,7 @@ permalink: /vita/
 - B. Yum, **J. Koo**, S. Kim, Analysis of Defective Patterns on Wafers in Semiconductor Manufacturing: A Bibliographical Review, IEEE International Conference on Automation Science and Engineering, 2012, pp. 86-90. [10.1109/CoASE.2012.6386471](https://doi.org/10.1109/CoASE.2012.6386471)
 
 ## Projects
+- 2025.01-2025.12, Participating Researcher,  HYU-KITECH 공동교육기반 공동연구, Korea Institute of Industrial Technology (HYU-KITECH 공동 R&D 사업) 
 - 2023-2026, Principal Investigator, Explainable and interpretable AI systems based on deep learning for classification, National Research Foundation of Korea (한국연구재단 기초연구사업-기본연구) 
 - 2021-2022, Postdoc Researcher, EFIT‐AI: ML/AI Assisted Tokamak Equilibrium Reconstruction, DOE FES Project
 - 2020-2022, Postdoc Researcher, PROTEAS‐TUNE: Programming Toolchain for Emerging Architectures and Systems, DOE ASCR Exascale Computing Project 
