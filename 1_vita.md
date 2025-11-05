@@ -57,6 +57,8 @@ permalink: /vita/
 - [Google Scholar](https://scholar.google.com/citations?user=nabCGxoAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3742-1485)
 
 ### Working Papers
+- Machine Learning Based Predictive Modeling and Analysis for Early Detection of Chronic Kidney Disease
+- Sentiment Analysis for Government Services in Indonesia: A Systematic Literature Review
 - Development of an Automatic Speech Recognition System Based on Deep Learning for Kyrgyz Language
 - Face Recognition: Comparison between a Traditional Method Used in Latin America and a Deep Learning Based Approach
 - Deep Learning Based KRW/USD Exchange Rate Prediction
