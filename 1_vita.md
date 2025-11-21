@@ -60,11 +60,11 @@ permalink: /vita/
 - Machine Learning Based Predictive Modeling and Analysis for Early Detection of Chronic Kidney Disease
 - Sentiment Analysis for Government Services in Indonesia: A Systematic Literature Review
 - Development of an Automatic Speech Recognition System Based on Deep Learning for Kyrgyz Language
+- Application of Machine Learning to Predict Employment Attainment Among Individuals with Intellectual and Developmental Disabilities 
 - Face Recognition: Comparison between a Traditional Method Used in Latin America and a Deep Learning Based Approach
 - Deep Learning Based KRW/USD Exchange Rate Prediction
 - Efficient Scheduling Strategy for Semiconductor Manufacturing based on Reinforcement Learning
 - Multi‑Objective Optimization for Efficient and Clean Power‑Train Systems using the Non Dominated Sorting Genetic Algorithm
-- Model Order Reduction of EFIT Equilibrium Reconstruction with Deep Neural Networks
 - Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks
 
 ### Refereed Journal Articles
