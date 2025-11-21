@@ -57,15 +57,15 @@ permalink: /vita/
 - [Google Scholar](https://scholar.google.com/citations?user=nabCGxoAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3742-1485)
 
 ### Working Papers
-- Machine Learning Based Predictive Modeling and Analysis for Early Detection of Chronic Kidney Disease
-- Sentiment Analysis for Government Services in Indonesia: A Systematic Literature Review
-- Development of an Automatic Speech Recognition System Based on Deep Learning for Kyrgyz Language
-- Application of Machine Learning to Predict Employment Attainment Among Individuals with Intellectual and Developmental Disabilities 
-- Face Recognition: Comparison between a Traditional Method Used in Latin America and a Deep Learning Based Approach
-- Deep Learning Based KRW/USD Exchange Rate Prediction
-- Efficient Scheduling Strategy for Semiconductor Manufacturing based on Reinforcement Learning
-- Multi‑Objective Optimization for Efficient and Clean Power‑Train Systems using the Non Dominated Sorting Genetic Algorithm
-- Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks
+- Machine Learning Based Predictive Modeling and Analysis for Early Detection of Chronic Kidney Disease (with C. Kottage) <!-- Charuni Sachithra Kottage  -->
+- Sentiment Analysis for Government Services in Indonesia: A Systematic Literature Review (with H. Hudiya) <!-- Noval Hudiya -->
+- Application of Machine Learning to Predict Employment Attainment Among Individuals with Intellectual and Developmental Disabilities (with C. Lee) <!-- Chung Eun Lee  -->
+- Development of an Automatic Speech Recognition System Based on Deep Learning for Kyrgyz Language (with A. Esenov) <!-- Aizaratbek Esenov -->
+- Face Recognition: Comparison between a Traditional Method Used in Latin America and a Deep Learning Based Approach (with D. Estevez) <!-- David Alejandro Espin Estevez  -->
+- Deep Learning Based KRW/USD Exchange Rate Prediction (with T. Han, K. Oh) <!-- Taehoon Han, Kyungheon Oh -->
+- Efficient Scheduling Strategy for Semiconductor Manufacturing based on Reinforcement Learning (with K. Park) <!-- Kyungsu Park -->
+- Multi‑Objective Optimization for Efficient and Clean Power‑Train Systems using the Non Dominated Sorting Genetic Algorithm (with T. Han) <!-- Taehoon Han -->
+- Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks (with R. Maulik, Y. Feng) <!-- Romit Maulik, Yan Feng -->
 
 ### Refereed Journal Articles
 - X. Wu, P. Balaprakash, M. Kruse, **J. Koo**, B. Videau, P. Hovland, V. Taylor, B. Geltz, S. Jana, and M. Hall, ytopt: Autotuning Scientific Applications for Energy Efficiency at Large Scales, Concurrency and Computation: Practice and Experience, e8322, 2024. [10.1002/cpe.8322](https://doi.org/10.1002/cpe.8322)
