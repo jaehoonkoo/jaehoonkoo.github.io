@@ -58,7 +58,7 @@ permalink: /vita/
 
 ### Working Papers
 - Machine Learning Based Predictive Modeling and Analysis for Early Detection of Chronic Kidney Disease (with C. Kottage) <!-- Charuni Sachithra Kottage  -->
-- Sentiment Analysis for Government Services in Indonesia: A Systematic Literature Review (with H. Hudiya) <!-- Noval Hudiya -->
+- Sentiment Analysis for Government Services in Indonesia: A Systematic Literature Review (with N. Hudiya) <!-- Noval Hudiya -->
 - Application of Machine Learning to Predict Employment Attainment Among Individuals with Intellectual and Developmental Disabilities (with C. Lee) <!-- Chung Eun Lee  -->
 - Development of an Automatic Speech Recognition System Based on Deep Learning for Kyrgyz Language (with A. Esenov) <!-- Aizaratbek Esenov -->
 - Face Recognition: Comparison between a Traditional Method Used in Latin America and a Deep Learning Based Approach (with D. Estevez) <!-- David Alejandro Espin Estevez  -->
