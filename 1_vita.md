@@ -95,6 +95,7 @@ permalink: /vita/
 - 2016-2020, Researcher, Projects with Allstate Insurance Company, University-Industry collaborative projects at Northwestern University  
 
 ## Talks
+- 지속가능경영과 인공지능 방법론, 지속가능경영을 위한 사회적 리더 양성 프로그램 at Hanyang University, Ansan, South Korea, Nov. 2025
 - 사회적경제와 생성형 인공지능, 사회적경제혁신리더 과정 at Hanyang University, Ansan, South Korea, Sep. 2024
 - 사회적경제와 인공지능–심층학습중심으로, 사회적경제혁신리더 과정 at Hanyang University, Ansan, South Korea, Nov. 2023
 - Topics in Deep Learning Classification, Brown-Bag Seminar at Hanyang University Management Research Institute, Ansan, South Korea, Nov. 2022
