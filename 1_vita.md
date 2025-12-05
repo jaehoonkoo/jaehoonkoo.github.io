@@ -53,7 +53,7 @@ permalink: /vita/
 <!-- - Managed supply chain of CKD products sent to Hyundai Mobis Slovakia and Czech branches.
     - Solved quality issues with engineers at car-assembly and part-manufacturing lines including domestic and overseas factories. -->
 
-## Publications <font size="3">(†: corresponding author)</font>
+## Publications
 - [Google Scholar](https://scholar.google.com/citations?user=nabCGxoAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3742-1485)
 
 ### Working Papers
@@ -66,7 +66,7 @@ permalink: /vita/
 - Multi‑Objective Optimization for Efficient and Clean Power‑Train Systems using the Non Dominated Sorting Genetic Algorithm (with T. Han) <!-- Taehoon Han -->
 - Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks (with R. Maulik, Y. Feng) <!-- Romit Maulik, Yan Feng -->
 
-### Refereed Journal Articles
+### Refereed Journal Articles <font size="3">(†: corresponding author)</font>
 - C. Lee and **J. Koo†**, Application of Machine Learning to Predict Employment Attainment Among Individuals with Intellectual and Developmental Disabilities, Research in Developmental Disabilities (accepted) <!-- Chung Eun Lee  -->
 - X. Wu, P. Balaprakash, M. Kruse, **J. Koo**, B. Videau, P. Hovland, V. Taylor, B. Geltz, S. Jana, and M. Hall, ytopt: Autotuning Scientific Applications for Energy Efficiency at Large Scales, Concurrency and Computation: Practice and Experience, e8322, 2024. [10.1002/cpe.8322](https://doi.org/10.1002/cpe.8322)
 - S. Madireddy, C. Akcay, S. Kruger, T. B. Amara, X. Sun, J. McClenaghan, **J. Koo**, A. Samaddar, Y. Liu, P. Balaprakash, and L. Lao, EFIT-Prime: Probabilistic and physics-constrained reduced-order neural network model for equilibrium reconstruction in DIII-D, Physics of Plasmas, vol. 31(9), 2024. [10.1063/5.0213609](https://doi.org/10.1063/5.0213609)
