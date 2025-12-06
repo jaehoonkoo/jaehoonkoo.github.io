@@ -8,7 +8,7 @@ permalink: /vita/
 - [Northwestern University](https://www.mccormick.northwestern.edu/industrial/) 
   - Ph.D. in Industrial Engineering and Management Sciences, 2020
 <!--  - M.S. in Industrial Engineering and Management Sciences, 2015 -->
-- [Korea Advanced Institute of Science and Technology (KAIST)](https://ie.kaist.ac.kr/) 
+- [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/)
   - M.S. in Industrial and Systems Engineering, 2012
 - [Ajou University](https://www.ajou.ac.kr/en/index.do) 
   - B.S. in Industrial Engineering, 2010
