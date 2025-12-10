@@ -67,7 +67,7 @@ permalink: /vita/
 - Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks (with R. Maulik, Y. Feng) <!-- Romit Maulik, Yan Feng -->
 
 ### Refereed Journal Articles <font size="3">(†: corresponding author)</font>
-- C. E. Lee and **J. Koo†**, Application of machine learning to predict employment attainment among individuals with intellectual and developmental disabilities, Research in Developmental Disabilities (accepted) <!-- Chung Eun Lee  -->
+- C. E. Lee, **J. Koo†**, \& C. Li, Application of machine learning to predict employment attainment among individuals with intellectual and developmental disabilities, Research in Developmental Disabilities (accepted) <!-- Chung Eun Lee  -->
 - X. Wu, P. Balaprakash, M. Kruse, **J. Koo**, B. Videau, P. Hovland, V. Taylor, B. Geltz, S. Jana, and M. Hall, ytopt: Autotuning Scientific Applications for Energy Efficiency at Large Scales, Concurrency and Computation: Practice and Experience, e8322, 2024. [10.1002/cpe.8322](https://doi.org/10.1002/cpe.8322)
 - S. Madireddy, C. Akcay, S. Kruger, T. B. Amara, X. Sun, J. McClenaghan, **J. Koo**, A. Samaddar, Y. Liu, P. Balaprakash, and L. Lao, EFIT-Prime: Probabilistic and physics-constrained reduced-order neural network model for equilibrium reconstruction in DIII-D, Physics of Plasmas, vol. 31(9), 2024. [10.1063/5.0213609](https://doi.org/10.1063/5.0213609)
 - T. Han and **J. Koo†**, Machine Learning Based Surrogate Models for Knock Prediction in Syngas (H₂/CO) Added SI Engine Combustion, Journal of Energy & Climate Change, vol. 19, 2024. [10.22728/jecc.2024.19.1.049](https://doi.org/10.22728/jecc.2024.19.1.049)
