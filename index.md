@@ -7,7 +7,7 @@ layout: home
 
 <img style="float:right;padding:20px;" width="200" src="/images/Koo-photoshot.jpeg"/>
 
-I am an Assistant Professor in the [School of Business Administration](https://ibus.hanyang.ac.kr/) at [Hanyang University](https://www.hanyang.ac.kr/), ERICA. I received my PhD from the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at [Northwestern University](https://www.northwestern.edu). My research is focused on machine learning, deep learning, reinforcement learning, optimization, big data, image recognition, and autotuning.
+I am an Assistant Professor in the [School of Business Administration](https://ibus.hanyang.ac.kr/) at [Hanyang University](https://www.hanyang.ac.kr/), ERICA. I received my PhD from the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at [Northwestern University](https://www.northwestern.edu). My research is focused on machine learning, deep learning, reinforcement learning, optimization, business analytics, and high-performance computing.
 
 Here is my [CV](https://drive.google.com/file/d/1hLEbCyqwuMKlIwrcmr0Z6OoxWQxFeQhy/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/jaehoon-koo-bb384aa1/), [Google Scholar](https://scholar.google.com/citations?user=nabCGxoAAAAJ&hl=en), and [ORCID](https://orcid.org/0000-0003-3742-1485). 
 
