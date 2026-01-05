@@ -110,12 +110,12 @@ permalink: /vita/
 
 ## Teaching
 ### Hanyang University <font size="2">(Ansan, Gyeonggi, South Korea)</font>
+- Instructor, BAS3003 Operations Analytics (Spring 2023, 2024, 2025, 2026)
+- Instructor, BUS1008 Advanced Statistics for Business (Fall 2022, 2023, 2024, 2025)
+- Instructor, KDI0003 Digital Production Management and Manufacturing (Spring 2023, 2025)
 - Instructor, BUC9073 AI and Service Operation (Fall 2024)
 - Instructor, BUS5033 Operations Management Simulation (Spring 2024)
-- Instructor, BAS3003 Operations Analytics (Spring 2023, 2024, 2025)
-- Instructor, KDI0003 Digital Production Management and Manufacturing (Spring 2023, 2025)
 - Instructor, BUS2013 Operations Management (Fall 2022, 2023)
-- Instructor, BUS1008 Advanced Statistics for Business (Fall 2022, 2023, 2024, 2025)
 
 ### Northwestern University <font size="2">(Evanston, IL, USA)</font>
 - TA/lab instructor, MSIA-423 Analytics Value Chain (Spring 2020)
