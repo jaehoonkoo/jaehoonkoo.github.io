@@ -88,7 +88,7 @@ permalink: /vita/
 
 ## Projects
 - 2026-2029, Principal Investigator, Transfer Learning-Based Autotuning Framework Using Deep Neural Networks for HPC Applications, National Research Foundation of Korea (한국연구재단 기초연구사업-신진연구)
-- 2025.01-2025.12, Participating Researcher, HYU-KITECH 공동교육기반 공동연구(RIAM 플랫폼 데이터분석체계 개발), Korea Institute of Industrial Technology (HYU-KITECH 공동 R&D 사업) 
+- 2025.01-2025.12, Participating Researcher, HYU-KITECH 공동교육기반 공동연구(RIAM 플랫폼 데이터분석체계 개발파트 책임), Korea Institute of Industrial Technology (HYU-KITECH 공동 R&D 사업) 
 - 2023-2026, Principal Investigator, Explainable and interpretable AI systems based on deep learning for classification, National Research Foundation of Korea (한국연구재단 기초연구사업-기본연구) 
 - 2021-2022, Postdoc Researcher, EFIT‐AI: ML/AI Assisted Tokamak Equilibrium Reconstruction, DOE FES Project
 - 2020-2022, Postdoc Researcher, PROTEAS‐TUNE: Programming Toolchain for Emerging Architectures and Systems, DOE ASCR Exascale Computing Project 
