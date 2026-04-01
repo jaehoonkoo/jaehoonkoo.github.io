@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /vita/
 ---
 
-i## Education
+## Education
 - [Northwestern University](https://www.mccormick.northwestern.edu/industrial/) 
   - Ph.D. in Industrial Engineering and Management Sciences, 2020
 <!--  - M.S. in Industrial Engineering and Management Sciences, 2015 -->
