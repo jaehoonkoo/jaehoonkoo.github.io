@@ -61,8 +61,10 @@ permalink: /vita/
 - Sentiment Analysis for Government Services in Indonesia: A Systematic Literature Review (with N. Hudiya) <!-- Noval Hudiya -->
 - Development of an Automatic Speech Recognition System Based on Deep Learning for Kyrgyz Language (with A. Esenov) <!-- Aizaratbek Esenov -->
 - Face Recognition: Comparison between a Traditional Method Used in Latin America and a Deep Learning Based Approach (with D. Estevez) <!-- David Alejandro Espin Estevez  -->
-- Deep Learning Based KRW/USD Exchange Rate Prediction (with T. Han, K. Oh) <!-- Taehoon Han, Kyungheon Oh -->
 - Efficient Scheduling Strategy for Semiconductor Manufacturing based on Reinforcement Learning (with K. Park) <!-- Kyungsu Park -->
+- Inverse Classification Using Machine Learning Models for employment attainment among individuals with intellectual and developmental disabilities (with C. Lee, C. Li)
+- Deep Learning Based KRW/USD Exchange Rate Prediction (with T. Han, K. Oh) <!-- Taehoon Han, Kyungheon Oh -->
+- An Extended Inverse Classification Framework with Limited Budget and Maximum Number of Perturbed Samples (with J. Kim, D. Klabjan)
 - Multi‑Objective Optimization for Efficient and Clean Power‑Train Systems using the Non Dominated Sorting Genetic Algorithm (with T. Han) <!-- Taehoon Han -->
 - Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks (with R. Maulik, Y. Feng) <!-- Romit Maulik, Yan Feng -->
 
