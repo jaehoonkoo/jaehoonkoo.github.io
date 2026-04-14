@@ -66,7 +66,7 @@ permalink: /vita/
 - Deep Learning Based KRW/USD Exchange Rate Prediction (with T. Han, K. Oh) <!-- Taehoon Han, Kyungheon Oh -->
 - An Extended Inverse Classification Framework with Limited Budget and Maximum Number of Perturbed Samples (with J. Kim, D. Klabjan)
 - Multi‑Objective Optimization for Efficient and Clean Power‑Train Systems using the Non Dominated Sorting Genetic Algorithm (with T. Han) <!-- Taehoon Han -->
-- Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks (with R. Maulik, Y. Feng) <!-- Romit Maulik, Yan Feng -->
+<!-- - Improved Future Wildfire Danger Prediction using Combined Convolutional and Recurrent Neural Networks (with R. Maulik, Y. Feng) --> <!-- Romit Maulik, Yan Feng -->
 
 ### Refereed Journal Articles <font size="3">(†: corresponding author)</font>
 - C. E. Lee, **J. Koo**†, & C. Li, Application of machine learning to predict employment attainment among individuals with intellectual and developmental disabilities, Research in Developmental Disabilities, vol. 168, 2026. [10.1016/j.ridd.2025.105181](https://doi.org/10.1016/j.ridd.2025.105181) <!-- Chung Eun Lee  -->
