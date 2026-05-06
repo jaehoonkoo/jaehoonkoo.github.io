@@ -98,6 +98,7 @@ permalink: /vita/
 - 2016-2020, Researcher, Projects with Allstate Insurance Company, University-Industry collaborative projects at Northwestern University  
 
 ## Talks
+- 산업AI 데이터 애널리틱스, HYU-KITECH Research Methodology at Hanyang University, Ansan, South Korea, May 2026
 - 지속가능경영과 인공지능 방법론, 지속가능경영을 위한 사회적 리더 양성 프로그램 at Hanyang University, Ansan, South Korea, Nov. 2025
 - 사회적경제와 생성형 인공지능, 사회적경제혁신리더 과정 at Hanyang University, Ansan, South Korea, Sep. 2024
 - 사회적경제와 인공지능–심층학습중심으로, 사회적경제혁신리더 과정 at Hanyang University, Ansan, South Korea, Nov. 2023
@@ -127,7 +128,7 @@ permalink: /vita/
 - TA, IEMS-310 Operations Research (Spring 2017)
 - TA, IEMS-385 Introduction to Health Systems Management (Fall 2015)
 
-## Honors \& Awards
+## Honors & Awards
 - 우수상(인문사회계열), ERICA IC-PBL 교과목 콘테스트, Hanyang University (Spring 2025)
 - 최우수상(대학원교과목), ERICA IC-PBL+ 교과목 콘테스트, Hanyang University (Fall 2024)
 - 최우수상(루키), ERICA IC-PBL 교과목 콘테스트, Hanyang University (Spring 2024)
