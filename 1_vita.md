@@ -98,6 +98,7 @@ permalink: /vita/
 - 2016-2020, Researcher, Projects with Allstate Insurance Company, University-Industry collaborative projects at Northwestern University  
 
 ## Talks
+- Establishing a Global Research-Education Ecosystem For Valufacturing: HYU-KITECH RIAM Platform and Collaborative Human Resource Development, [2026 International Conference on Valufacturing](https://www.icv2026.org/), Incheon, South Korea, May 2026
 - Industrial AI Data Analytics(산업AI 데이터 애널리틱스), HYU-KITECH Research Methodology at Hanyang University, Ansan, South Korea, May 2026
 - 지속가능경영과 인공지능 방법론, 지속가능경영을 위한 사회적 리더 양성 프로그램 at Hanyang University, Ansan, South Korea, Nov. 2025
 - 사회적경제와 생성형 인공지능, 사회적경제혁신리더 과정 at Hanyang University, Ansan, South Korea, Sep. 2024
