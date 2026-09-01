@@ -19,8 +19,11 @@ permalink: /vita/
 - B.S. in Industrial Engineering, [Ajou University](https://ie.ajou.ac.kr/ie/index.do), 2010, South Korea -->
 
 ## Work Experience
+ - [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/) <font size="2">(Seoul, South Korea)</font>
+   - Assistant Professor in the Department of Business Administration (Sep. 2026 - present)
+
 - [Hanyang University](https://www.hanyang.ac.kr/) <font size="2">(Ansan, Gyeonggi, South Korea)</font>
-  - Assistant Professor in the School of Business Administration (Sep. 2022 - present)
+  - Assistant Professor in the School of Business Administration (Sep. 2022 - Aug. 2026)
 
 - [Argonne National Laboratory](https://www.anl.gov/) <font size="2">(Lemont, IL, USA)</font>
   - Postdoctoral Appointee in the Mathematics and Computer Science Division (Jul. 2020 - Jul. 2022)
