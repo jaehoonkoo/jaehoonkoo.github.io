@@ -129,11 +129,11 @@ permalink: /vita/
 - Instructor, [BUS2013] Operations Management (Fall 2022, 2023)
 
 ### Northwestern University <font size="2">(Evanston, IL, USA)</font>
-- TA/lab instructor, MSIA-423 Analytics Value Chain (Spring 2020)
-- TA/lab instructor, MSIA-432 Deep Learning (Spring 2018)
-- TA, IEMS-393-2 IE Design Project (Winter 2020)
-- TA, IEMS-310 Operations Research (Spring 2017)
-- TA, IEMS-385 Introduction to Health Systems Management (Fall 2015)
+- TA/lab instructor, [MSIA-423] Analytics Value Chain (Spring 2020)
+- TA/lab instructor, [MSIA-432] Deep Learning (Spring 2018)
+- TA, [IEMS-393-2] IE Design Project (Winter 2020)
+- TA, [IEMS-310] Operations Research (Spring 2017)
+- TA, [IEMS-385] Introduction to Health Systems Management (Fall 2015)
 
 ## Honors & Awards
 - 우수상(인문사회계열), ERICA IC-PBL 교과목 콘테스트, Hanyang University (Spring 2025)
