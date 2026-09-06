@@ -51,7 +51,7 @@ permalink: /vita/
 <!--  - Developed dynamic resource allocation framework based on deep RL for network slicing of 5G networks; collaborated with mobile network experts; achieved 29\% in loss reduction over the baseline. -->
 
 - Hyundai Mobis, Hyundai Motor Group <font size="2">(Seoul, South Korea)</font>
-  - Specialist in Quality Department (2012 - 2013)
+  - Specialist in Quality Department (2011 - 2013)
 
 <!-- - Managed supply chain of CKD products sent to Hyundai Mobis Slovakia and Czech branches.
     - Solved quality issues with engineers at car-assembly and part-manufacturing lines including domestic and overseas factories. -->
