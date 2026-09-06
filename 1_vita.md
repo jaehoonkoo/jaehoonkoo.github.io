@@ -20,7 +20,7 @@ permalink: /vita/
 
 ## Work Experience
  - [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/) <font size="2">(Seoul, South Korea)</font>
-   - Assistant Professor in the Department of Business Administration (2026 - present)
+   - Assistant Professor in the [Department of Business Administration](https://biz.seoultech.ac.kr/) (2026 - present)
 
 - [Hanyang University](https://www.hanyang.ac.kr/) <font size="2">(Ansan, Gyeonggi, South Korea)</font>
   - Assistant Professor in the School of Business Administration (2022 - 2026)
@@ -46,7 +46,7 @@ permalink: /vita/
     - Helped data scientists to classify initially unlabeled images through active learning with the Siamese network (CNN) using Keras‑Tensorflow. -->
 
 - Nokia Bell Labs <font size="2">(Naperville, IL, USA)</font>
-  - Summer Research Intern (2018)
+  - Summer Intern (2018)
 
 <!--  - Developed dynamic resource allocation framework based on deep RL for network slicing of 5G networks; collaborated with mobile network experts; achieved 29\% in loss reduction over the baseline. -->
 
