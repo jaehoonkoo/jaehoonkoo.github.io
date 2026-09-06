@@ -20,13 +20,13 @@ permalink: /vita/
 
 ## Work Experience
  - [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/) <font size="2">(Seoul, South Korea)</font>
-   - Assistant Professor in the Department of Business Administration (Sep. 2026 - present)
+   - Assistant Professor in the Department of Business Administration (2026 - present)
 
 - [Hanyang University](https://www.hanyang.ac.kr/) <font size="2">(Ansan, Gyeonggi, South Korea)</font>
-  - Assistant Professor in the School of Business Administration (Sep. 2022 - Aug. 2026)
+  - Assistant Professor in the School of Business Administration (2022 - 2026)
 
 - [Argonne National Laboratory](https://www.anl.gov/) <font size="2">(Lemont, IL, USA)</font>
-  - Postdoctoral Appointee in the Mathematics and Computer Science Division (Jul. 2020 - Jul. 2022)
+  - Postdoctoral Appointee in the Mathematics and Computer Science Division (2020 - 2022)
 
 <!-- - Collaborated with plasma physicists to design a combined MLP/CNN model to reconstruct plasma equilibrium images and physical quantities; implemented using Pytorch; achieved 1000x speedup over the traditional algorithms. (Project page: EFIT-AI)
     - Developed autotuning framework to explore a tree‑like search space based on Monte Carlo tree search; obtained 3.7x speedup over the default heuristic optimizations on Exascale proxy apps; collaborated with experts on compiler optimization for HPC. [[code]](https://github.com/ytopt-team/ytopt/blob/mcts/ytopt/cmcts/README.md) [[tutorial]](https://github.com/ytopt-team/ytopt/blob/mcts/docs/tutorials/mcts-gemm/tutorial-mcts-gemm.md)
@@ -46,12 +46,12 @@ permalink: /vita/
     - Helped data scientists to classify initially unlabeled images through active learning with the Siamese network (CNN) using Keras‑Tensorflow. -->
 
 - Nokia Bell Labs <font size="2">(Naperville, IL, USA)</font>
-  - Summer Research Intern (Jun. 2018 - Aug. 2018)
+  - Summer Research Intern (2018)
 
 <!--  - Developed dynamic resource allocation framework based on deep RL for network slicing of 5G networks; collaborated with mobile network experts; achieved 29\% in loss reduction over the baseline. -->
 
 - Hyundai Mobis, Hyundai Motor Group <font size="2">(Seoul, South Korea)</font>
-  - Specialist in Quality Department (Dec. 2011 - Jan. 2013)
+  - Specialist in Quality Department (2012 - 2013)
 
 <!-- - Managed supply chain of CKD products sent to Hyundai Mobis Slovakia and Czech branches.
     - Solved quality issues with engineers at car-assembly and part-manufacturing lines including domestic and overseas factories. -->
