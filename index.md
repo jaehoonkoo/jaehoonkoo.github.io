@@ -7,11 +7,11 @@ layout: home
 
 <img style="float:right;padding:20px;" width="200" src="/images/Koo-photoshot.jpeg"/>
 
-I am an Assistant Professor in the [Department of Business Administration](https://biz.seoultech.ac.kr/) at [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/). I received my PhD from the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at [Northwestern University](https://www.northwestern.edu). My research is focused on machine learning, deep learning, optimization, operations management, business analytics, and artificial intelligence.
+I am an Assistant Professor in the [Department of Business Administration](https://biz.seoultech.ac.kr/) at [Seoul National University of Science and Technology](https://www.seoultech.ac.kr/). I received my PhD in [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) from [Northwestern University](https://www.northwestern.edu). My research is focused on machine learning, deep learning, optimization, operations management, business analytics, and AI.
 
-Here is my [CV](https://drive.google.com/file/d/13viXLzuQGbQFObjJZvvLtP96NV_EMnGe/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/jaehoon-koo-bb384aa1/), [Google Scholar](https://scholar.google.com/citations?user=nabCGxoAAAAJ&hl=en), and [ORCID](https://orcid.org/0000-0003-3742-1485). 
+[CV](https://drive.google.com/file/d/13viXLzuQGbQFObjJZvvLtP96NV_EMnGe/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/jaehoon-koo-bb384aa1/), [Google Scholar](https://scholar.google.com/citations?user=nabCGxoAAAAJ&hl=en), and [ORCID](https://orcid.org/0000-0003-3742-1485). 
 
-I am looking for highly motivated students who are interesed in machine learning and deep learning. Please contact me at jaehoonkoo[at]hanyang.ac.kr with your 1) CV, 2) transcript, and 3) research statement.
+I am looking for highly motivated students who are interested in machine learning, deep learning, and business analytics. Please contact me at jkoo[at]seoultech.ac.kr with your 1) CV, 2) transcript, and 3) research statement.
 
 <!-- ## Summary
 - Expert in ML modeling with CNN, RNN, RL, and statistical testing/regression.
