@@ -57,7 +57,7 @@ permalink: /vita/
     - Solved quality issues with engineers at car-assembly and part-manufacturing lines including domestic and overseas factories. -->
 
 ## Publications
-- [Google Scholar](https://scholar.google.com/citations?user=nabCGxoAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3742-1485), [PURE](https://pure.seoultech.ac.kr/en/persons/jaehoon-koo/publications/)
+- [Google Scholar](https://scholar.google.com/citations?user=nabCGxoAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0003-3742-1485), [Pure](https://pure.seoultech.ac.kr/en/persons/jaehoon-koo/publications/)
 
 ### Working Papers
 - Machine Learning Based Predictive Modeling and Analysis for Early Detection of Chronic Kidney Disease (with C. Kottage) <!-- Charuni Sachithra Kottage  -->
