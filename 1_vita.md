@@ -145,7 +145,7 @@ permalink: /vita/
   - Python, C++, MATLAB, R, AMPL
 - Tools
   - Git, Linux, Vim, LaTeX, Docker, Kubernetes, Spack
-- ML Software/libraries
+- ML/DL Libraries and Tools
   - PyTorch, TensorFlow, Keras, Caffe, Theano, scikit-learn, Gym, ytopt, DeepHyper, GPTune
 
 <!-- ## Teaching experience
